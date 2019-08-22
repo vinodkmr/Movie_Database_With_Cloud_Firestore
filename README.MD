@@ -1,4 +1,6 @@
-This project used google cloud firestore. Lists you can do with this project.
+This project used google cloud firestore. 
+
+With this project you can
 
 Search for a movie with imdb id or a movie name
 View a Description or trailer of a selected movie
