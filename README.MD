@@ -1,7 +1,7 @@
-This project used google cloud firestore. 
+This project uses google cloud firestore. 
 
 With this project you can
 
-Search for a movie with imdb id or a movie name
-View a Description or trailer of a selected movie
-Download a movie by a available torrent link.
+1.Search for a movie with imdb id or a movie name
+2.View a Description or trailer of a selected movie
+3.Download a movie by a available torrent link.
